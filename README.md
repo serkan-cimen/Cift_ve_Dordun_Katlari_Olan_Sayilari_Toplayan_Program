@@ -1,0 +1,2 @@
+# Cift_ve_Dordun_Katlari_Olan_Sayilari_Toplayan_Program
+Cift_ve_Dordun_Katlari_Olan_Sayilari_Toplayan_Program
